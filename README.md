@@ -1,16 +1,6 @@
 📌 AI-Form-Web-Builder
 An AI-powered form-based website builder that dynamically suggests templates, layouts, and content based on user input.
 
-📖 Table of Contents
-🚀 Features
-🛠 Tech Stack
-📂 Folder Structure
-⚙️ Installation & Setup
-📌 API Endpoints
-🎥 Demo
-🤝 Contributing
-📜 License
-
 
 🚀 Features
 ✅ AI-powered template and content suggestions
@@ -19,6 +9,7 @@ An AI-powered form-based website builder that dynamically suggests templates, la
 ✅ Backend built with Node.js & Express.js
 ✅ Frontend built with React.js
 ✅ REST API for AI-generated suggestions
+
 
 🛠 Tech Stack
 Frontend: React.js
