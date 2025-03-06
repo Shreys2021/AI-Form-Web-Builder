@@ -1,18 +1,26 @@
 📌 AI-Form-Web-Builder
-An AI-driven website builder that suggests templates, layouts, and content based on user input, enhancing the form-based website creation process.
+An AI-powered form-based website builder that dynamically suggests templates, layouts, and content based on user input.
 
-📖 Features
-✅ AI-powered suggestions for templates and layouts.
-✅ User-friendly form-based interface.
-✅ Seamless integration with Gemini AI for intelligent recommendations.
-✅ Simple and clean UI for easy navigation.
+📖 Table of Contents
+🚀 Features
+🛠 Tech Stack
+📂 Folder Structure
+⚙️ Installation & Setup
+📌 API Endpoints
+🎥 Demo
+🤝 Contributing
+📜 License
+🚀 Features
+✅ AI-powered template and content suggestions
+✅ Form-based website builder
+✅ Uses Gemini AI for intelligent recommendations
+✅ Backend built with Node.js & Express.js
+✅ Frontend built with React.js
+✅ REST API for AI-generated suggestions
 
-🛠️ Tech Stack
-Backend:
-Node.js
-Express.js
-Gemini AI API
-MongoDB (if needed for storage)
-Frontend:
-React.js
-Tailwind CSS (for styling)
+🛠 Tech Stack
+Frontend: React.js
+Backend: Node.js, Express.js
+AI Model: Google Gemini API
+
+
